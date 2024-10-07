@@ -1,4 +1,4 @@
-<img align="center" alt="Graphic" width=1000 height=200 src="https://i.pinimg.com/originals/1d/73/5a/1d735ad8eee8350adc96d50e1421ee6d.gif">
+<img align="center" alt="Graphic" width=1000 height=100 src="https://i.pinimg.com/originals/1d/73/5a/1d735ad8eee8350adc96d50e1421ee6d.gif">
 <h1 align="center">◈------Welcome to Hamna's GitHub!------◈</h1>
 <h3 align="center">Putting my overthinking to good use💪🏻</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
